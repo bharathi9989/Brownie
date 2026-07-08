@@ -11,7 +11,3 @@ function App() {
 }
 
 export default App;
-// test
-// test
-// test
-// test
