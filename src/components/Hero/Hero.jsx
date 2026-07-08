@@ -4,7 +4,7 @@ import HeroVideo from "./HeroVideo";
 function Hero() {
   return (
     <>
-      <section>
+      <section className="relative h-screen overflow-hidden">
         <HeroVideo />
       </section>
     </>
