@@ -1,6 +1,5 @@
 import React from "react";
 import HeroVideo from "./HeroVideo";
-import NavBar from "../NavBar/NavBar";
 import HeroOverlay from "./HeroOverlay";
 import NavBar from "../NavBar/NavBar";
 
