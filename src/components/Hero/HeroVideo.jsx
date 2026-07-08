@@ -5,7 +5,7 @@ function HeroVideo() {
   return (
     <>
       <video
-        className=" "
+        className="absolute insert-0 h-full w-full"
         src={bgVideo}
         autoPlay
         loop
