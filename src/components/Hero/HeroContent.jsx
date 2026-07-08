@@ -3,9 +3,7 @@ import React from 'react'
 function HeroContent() {
   return (
       <>
-          <section>
-              <video src=""></video>
-          </section>
+          <h1>Content</h1>
       </>
   )
 }
