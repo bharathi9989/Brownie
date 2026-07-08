@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 function HeroOverlay() {
-  return (
-    <div></div>
-  )
+  <div className="absolute inset-0 bg-gradient-to-r from-black/70 via-black/40 to-transparent"></div>;
 }
 
-export default HeroOverlay
+export default HeroOverlay;
