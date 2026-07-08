@@ -5,7 +5,7 @@ import React from "react";
 function NavBar() {
   return (
     <>
-      <nav className="flex items-center justify-between px-10 py-5">
+      <nav className="flex items-center justify-between p py-5 fixed top-0 left-0 w-full z-50 bg-transparent">
         {/* Logo */}
         <h1 className="text-2xl font-bold">Brownie</h1>
         {/* Navigation Link */}
